@@ -8,7 +8,9 @@
 
 ## Results
 - results_VAE
+
 ![](https://github.com/ONground-Korea/MNIST_VAE-CVAE/blob/main/results_VAE/sample_30.png?raw=true)
 
 - results_CVAE
+
 ![](https://github.com/ONground-Korea/MNIST_VAE-CVAE/blob/main/results_CVAE/sample_50.png?raw=true)
